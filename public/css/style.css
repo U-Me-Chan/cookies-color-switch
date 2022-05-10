@@ -1,5 +1,4 @@
 body {
-  background-color: var(--background-green);
   color: var(--color);
   max-width: 800px;
   margin-left: auto;
@@ -16,24 +15,28 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-h1, h2, h3 {
-  color: var(--accent-green);
-}
-
 a {
   color: inherit;
 }
 
+body {
+  background-color: var(--background-green);
+}
+
+h1, h2, h3 {
+  color: var(--accent-green);
+}
+
 :root {
-  --accent-red: #ff6266;
-  --accent-yellow: #ffa86a;
-  --accent-green: #78e2a0;
-  --accent-blue: #23b0ff;
-  --accent-purple: #ee72f1;
-  --background-red: rgb(34, 31, 41);
-  --background-yellow: rgb(34, 33, 41);
-  --background-green: rgb(31, 34, 42);
-  --background-blue: rgb(29, 33, 44);
-  --background-purple: rgb(33, 32, 44);
+  --accent-red: #fff;
+  --accent-yellow: #fff;
+  --accent-green: #fff;
+  --accent-blue: #fff;
+  --accent-purple: #fff;
+  --background-red: rgb(0, 0, 0);
+  --background-yellow: rgb(0, 0, 0);
+  --background-green: rgb(0, 0, 0);
+  --background-blue: rgb(0, 0, 0);
+  --background-purple: rgb(0, 0, 0);
   --color: #fff;
 }

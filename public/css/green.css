@@ -5,3 +5,8 @@ body {
 h1, h2, h3 {
   color: var(--accent-green);
 }
+
+:root {
+  --accent-green: #78e2a0;
+  --background-green: rgb(31, 34, 42);
+}

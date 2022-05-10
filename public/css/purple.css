@@ -5,3 +5,8 @@ body {
 h1, h2, h3 {
   color: var(--accent-purple);
 }
+
+:root {
+  --accent-purple: #ee72f1;
+  --background-purple: rgb(33, 32, 44);
+}

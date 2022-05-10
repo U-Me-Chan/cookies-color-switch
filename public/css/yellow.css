@@ -5,3 +5,8 @@ body {
 h1, h2, h3 {
   color: var(--accent-yellow);
 }
+
+:root {
+  --accent-yellow: #ffa86a;
+  --background-yellow: rgb(34, 33, 41);
+}

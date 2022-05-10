@@ -5,3 +5,8 @@ body {
 h1, h2, h3 {
   color: var(--accent-blue);
 }
+
+:root {
+  --accent-blue: #23b0ff;
+  --background-blue: rgb(29, 33, 44);
+}
