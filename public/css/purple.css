@@ -1,12 +1,4 @@
-body {
-  background-color: var(--background-purple);
-}
-
-h1, h2, h3 {
-  color: var(--accent-purple);
-}
-
 :root {
-  --accent-purple: #ee72f1;
-  --background-purple: rgb(33, 32, 44);
+  --accent: #ee72f1;
+  --background: rgb(33, 32, 44);
 }

@@ -20,23 +20,15 @@ a {
 }
 
 body {
-  background-color: var(--background-green);
+  background-color: var(--background);
 }
 
 h1, h2, h3 {
-  color: var(--accent-green);
+  color: var(--accent);
 }
 
 :root {
-  --accent-red: #fff;
-  --accent-yellow: #fff;
-  --accent-green: #fff;
-  --accent-blue: #fff;
-  --accent-purple: #fff;
-  --background-red: rgb(0, 0, 0);
-  --background-yellow: rgb(0, 0, 0);
-  --background-green: rgb(0, 0, 0);
-  --background-blue: rgb(0, 0, 0);
-  --background-purple: rgb(0, 0, 0);
+  --accent: #fff;
+  --background: rgb(0, 0, 0);
   --color: #fff;
 }

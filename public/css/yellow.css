@@ -1,12 +1,4 @@
-body {
-  background-color: var(--background-yellow);
-}
-
-h1, h2, h3 {
-  color: var(--accent-yellow);
-}
-
 :root {
-  --accent-yellow: #ffa86a;
-  --background-yellow: rgb(34, 33, 41);
+  --accent: #ffa86a;
+  --background: rgb(34, 33, 41);
 }

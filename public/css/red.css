@@ -1,12 +1,4 @@
-body {
-  background-color: var(--background-red);
-}
-
-h1, h2, h3 {
-  color: var(--accent-red);
-}
-
 :root {
-  --accent-red: #ff6266;
-  --background-red: rgb(34, 31, 41);
+  --accent: #ff6266;
+  --background: rgb(34, 31, 41);
 }
